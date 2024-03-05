@@ -1,0 +1,7 @@
+Main.class
+Model\Triangle.class
+controller\Controller.class
+Model\Circle.class
+view\View.class
+Model\Shape.class
+Model\Rectangle.class
